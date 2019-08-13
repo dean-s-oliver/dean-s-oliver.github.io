@@ -1,0 +1,85 @@
+- name: Dean S Oliver
+  photo: OLIVER_photo.jpg
+  info: Principal Researcher
+  email: deol@norceresearch.no
+  number_educ: 2
+  education1: Publications in <a href="https://scholar.google.co.uk/citations?user=IxRAT7oAAAAJ&hl=en">Google Scholar</a>
+  education2: <a href="https://www.researcherid.com/rid/E-9429-2010">Researcher ID</a>
+  education3: 
+  education4: 
+  education5: 
+
+- name: Randi Valestrand
+  photo: Randi_Valestrand_web.jpg
+  info: Research Director
+  email: rava@norceresearch.no
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+
+- name: Kristian Fossum
+  photo: Kristian_Fossum.jpg
+  info: Researcher
+  email: krfo@norceresearch.no
+  number_educ: 0
+  education1: 
+  education2: 
+
+- name: Rolf J Lorentzen
+  photo: bio-photo.jpg
+  info: Senior Researcher
+  email: rolo@norceresearch.no
+  number_educ: 0
+  education1: 
+
+- name: Xiaodong Luo
+  photo: Xiaodong Luo_web.jpg
+  info: Senior Researcher
+  email: xilu@norceresearch.no
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Trond Mannseth
+  photo: MannsethTrond.jpg
+  info: Principal Researcher
+  email: trma@norceresearch.no
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:
+
+- name: Ivar Sandø
+  photo: bio-photo.jpg
+  info: Senior Researcher
+  email: ivsa@norceresearch.no
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Sigurd I Aanonsen
+  photo: bio-photo.jpg
+  info: Senior Researcher
+  email: siaa@pnorceresearch.no
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:
+
+- name: Tuhin Bhakta
+  photo: bio-photo.jpg
+  info: Researcher
+  email: tubh@norceresearch.no
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:

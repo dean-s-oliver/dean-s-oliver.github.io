@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>4DSEIS - Research</title>
+  <meta name="description" content="4DSEIS -- Research">
+  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/research/">
+<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
+
+
+
+</head>
+
+
+  <body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+	<div class="navbar-header">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+	
+    <a class="navbar-brand" href="http://localhost:4000/">4DSEIS at NORCE Research</a>
+	</div>
+	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right">
+		<li><a href="http://localhost:4000/">Home</a></li>
+		<li><a href="http://localhost:4000/team">Team</a></li>
+		<li><a href="http://localhost:4000/publications">Publications</a></li>
+		<li><a href="http://localhost:4000/research">Research</a></li>
+		<li><a href="http://localhost:4000/members">Members</a></li>
+		<li><a href="http://localhost:4000/pictures">(Pics)</a></li>
+	  </ul>
+	</div>
+  </div>
+</div>
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div id="textid" class="col-sm-12">
+  <h1 id="research">Research</h1>
+
+<p>The primary object of this project is to improve the reliability of reservoir models for prediction and uncertainty analysis by extracting the maximum amount of information from the 4D data and assimilating it for accurate uncertainty estimation.</p>
+
+<p>To achieve the primary objective, we have identified four secondary objectives:</p>
+
+<ul>
+  <li><strong>Model verification</strong> develop efficient methodologies for assessing the quality of history matched models and probabilistic forecasts on large problems,</li>
+  <li><strong>Model improvement</strong> develop and assess methods for identification of missing parameters, missing processes, and parameters for which the prior uncertainty is not well represented,</li>
+  <li><strong>Model calibration</strong> further develop methods for conditioning models to observations such that errors in forecasts are reduced and uncertainty is properly quantified,</li>
+  <li><strong>Robust work flow</strong> develop a standard work flow for 4D seismic history matching with reduced model error and better forecast ability.</li>
+</ul>
+
+<p><img src="http://localhost:4000/images/respic/Coarsen_2D.png" alt="" style="width: 250px; float: right; border: 10px" /></p>
+
+<p>Model error is an inherent problem in all real-world applications of  data assimilation, including assimilation  of seismic data into reservoir models. Common sources of model error include  non-representative distributions of initial geomodels, neglect of processes and sub-grid heterogeneity in  reservoir simulation models, simplification of petro-elastic models, and overly simplistic simulation of seismic  attributes  from reservoir flow models. To reduce the effects of model error, it is necessary to diagnose its presence, identify the sources of model error, and improve modeling  of prior uncertainty.</p>
+
+<p>In Work Package 1, lead by Dean Oliver, we develop methods to provide quantitative checks on the consistency of the model for history matching of data and for reliability in forecasting.   The  objective of <strong>model checking</strong> is not  to determine if the model is misspecified but rather to examine the consequences of model misspecification on  predictions. The most common model diagnostics used in the petroleum industry have been an evaluation of the <em>coverage</em> of the data by the ensemble of calibrated models and a normalized magnitude of the data mismatch, but this is not a sufficient diagnostic in realistic cases. If, based on evaluation of model diagnostics, a model has been judged to be deficient, then it is often necessary to improve the model.  In many cases, the source of much of the bias is the neglect of important parameters or physical processes.  Identification of those missing parameters can be a key aspect of <strong>model improvement</strong> for greater forecast reliability.  We are developing models that are better able to assimilate information from data by being less restrictive than traditional expert priors. We  take advantage of  <strong>weakly informative</strong> priors, hierarchical models, and multiple scenarios.</p>
+
+<p><img src="http://localhost:4000/images/respic/Multimodal_2D-map.png" alt="" style="width: 200px; float: left; border: 10px" /></p>
+
+<p>In Work Package 2, lead by Kristian Fossum, we make improvements in the algorithms for data assimilation, particularly with regards to assimilation of large amounts of data with small ensembles of models. It has recently been shown that a combination of data coarsening and inexpensive coarse-level reservoir simulations  give very good results and often outperform alternative methods when an appropriate coarsening level is selected.  We will develop a methodology for <strong>multilevel assimilation</strong> of inverted seismic data, that is, multilevel data representation combined with multilevel reservoir simulations, thereby avoiding the need for selection of one particular <em>right</em> level of coarsening.  Also, when the prior probabilities are based on the possibility of <strong>multiple scenarios</strong>,  evaluation of the Bayesian model evidence (BME) for model selection  can be unstable, and is extremely computationally expensive for large problems with correlated data-errors as it involves calculation of the inverse of the data-error covariance matrix (precision matrix). We are developing methods for stabilization of BME calculations, and methods for computationally feasible calculation of large precision matrices. Another approach to dealing with parameters for which distance-based localization is not appropriate is through the use of <strong>adaptive localization</strong>. We are  developing an  implementation which projects the representation data onto an ensemble sub-space, and conducts localization based on the correlations between model variables and projected data.</p>
+
+<p>In Work Package 3, lead by Tuhin Bhakta, the focus is on robust and flexible work-flows for seismic history matching, including assessment of the quality of the 4D seismic data before assimilation of the data into the models. <strong>Forward modeling</strong> of 4D seismic response (Sim2Seis) consists of petro-elastic modeling and seismic modeling. In many history matching studies, the forward modeling is too simplified to provide modeled data that are sufficiently close to the observed 4D data/ attributes. Thus, the potential value of 4D information for model update is reduced. To capture effects of sub-grid heterogeneity on the predicted seismic attributes, it is necessary to integrate fine scale information from the static geomodel with the dynamic information from the reservoir model.  Selection of an  appropriate <strong>seismic attribute</strong> is essential in a successful history matching workflow since not all seismic attributes are sensitive to all reservoir states. Further we might need to re-parameterize the attributes to use them efficiently in HM.  We are studying the  information of various seismic attributes and their advantages and disadvantages in ensemble-based history matching for <strong>optimal information extraction</strong>.</p>
+
+<p><img src="http://localhost:4000/images/respic/Norne_4D_xsec.png" alt="" style="width: 250px; float: right; border: 10px" /></p>
+
+<p>In Work Package 4, lead by Rolf Lorentzen, all methodologies and work flows developed in this project will be applied to <strong>real 4D seismic history matching</strong> problems. We will  be using a field case with suitable complexity and sufficient data quality from industry partners to test many aspects of the new data assimilation methodologies developed in this project. Although we may look at multiple data sets, potential partners have indicated a preference for a single detailed study over multiple shallow studies.</p>
+
+</div>
+
+      </div>
+    </div>
+
+    <div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+		<div class="col-sm-4">
+			
+		  <p>This site was made using <a href="https://jekyllrb.com">Jekyll</a> and was adapted from the <a href="https://www.allanlab.org/aboutwebsite.html"> Allan Lab website.</a></p>
+              <p>We are part of the <a href="https://www.norceresearch.no/en/">Norwegian Research Centre</a> in Bergen Norway.</p>
+            
+
+		   <p>  </p><p>
+            		  
+            
+		</div>
+		<div class="col-sm-4">
+		  Funding:<br />
+		  - <a href="https://www.forskningsradet.no/om-forskningsradet/programmer/petromaks2/">PETROMAKS2 </a>  grant from the <a href="https://www.forskningsradet.no/en/">Research Council of Norway</a> <br />
+		  - Support from industry partners AkerBP, Equinor, Repsol, and Total
+		</div>
+		<div class="col-sm-4">
+		  Contact:<br />
+		  Nygårdsgaten 112<br />
+		  NO-5838 Bergen<br />
+		  Norway <br />
+            (<a href="https://goo.gl/maps/j1aji7eP5yNDjJUq8">Maps</a>)
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://localhost:4000/js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>

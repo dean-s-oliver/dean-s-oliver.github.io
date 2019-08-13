@@ -1,0 +1,149 @@
+- title: "Seismic data assimilation with an imperfect model"
+  image: Alfonzo_Norne_Experimental_Covariance.png
+  description: A demonstration of data assimilation with correlated observation errors and iterative estimation of total observation error in an imperfect model with large amounts of data. Applied to the Norne Field.
+  authors: M Alfonzo, DS Oliver 
+  link:
+    url: https://link.springer.com/article/10.1007/s10596-019-09849-0
+    display:  Comput Geosci., online  July 2019
+  highlight: 1
+  news1: 
+
+- title: "Using Bayesian model probability for ranking different prior scenarios in reservoir history matching"
+  image: Aanonsen_BMA.jpeg
+  description:
+    We apply Bayesian Model Probability and Bayesian Averaging to take into account prior scenarios in history matching and uncertainty analysis.  The methodology is used to condition a dynamic reservoir simulation model to frequent 4D seismic data by tuning the top reservoir surface given alternative prior interpretations.
+  authors:
+    SI Aanonsen, S Tveit, M Alerini
+  link:
+    url: https://www.onepetro.org/journal-paper/SPE-194505-PA
+    display: SPE Journal, online March 2019
+  highlight: 1
+
+- title: "History matching the full Norne Field model using seismic and production data"
+  image: Lorentzen_convergence_2019.png
+  description:
+    The full Norne Field is history matched using a combination of acoustic impedance and production data. The paper  illustrates a robust and flexible work flow for assisted history matching of large data sets.
+  authors:
+    RJ Lorentzen, XD Luo, T Bhakta, R Valestrand
+  link:
+    url: https://www.onepetro.org/journal-paper/SPE-194205-PA
+    display: SPE Journal, online January 2019
+  highlight: 1
+  
+- title: "Correlation-based adaptive localization for ensemble-based history matching: applied to the Norne Field case study"
+  image: Luo_Norne_field_REE_2019.png
+  description: Application of correlation-based adaptive localization to history-matching production data in the Norne field. Also included is a comparison to the conventional distance-based localization.
+  authors: XD Luo, RJ Lorentzen, R Valestrand, G Evensen
+  link:
+    url: https://www.onepetro.org/journal-paper/SPE-191305-PA
+    display:  SPE Reservoir Evaluation & Engineering, in press 2019
+  highlight: 1
+  
+- title: "Ensemble-based kernel learning for a class of data assimilation problems with imperfect forward simulators"
+  image: Luo_kernel_learning_PLOS_2019.png
+  description: Development of an ensemble-based kernel learning framework, with applications to handling model errors in a class of data assimilation problems (e.g., 4D seismic history matching)
+  authors: XD Luo 
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219247
+    display:  PLOS ONE, 14(7), e0219247 (2019)
+  highlight: 1
+  news1: 
+
+- title: "Calibration of imperfect models to biased observations"
+  image: Oliver_Alfonzo_biased.png
+  description: A recent publication on the problem of problem of assimilating biased and inaccurate observations into inadequate models.
+  authors: DS Oliver, M Alfonzo
+  link:
+    url: https://link.springer.com/article/10.1007/s10596-017-9678-4
+    display:  Comput Geosci. 22(1), 867-893 (2018)
+  highlight: 1
+
+- title: "Data assimilation in truncated plurigaussian models -- impact of the truncation map"
+  image: Oliver_tidal_flats.png
+  description:
+    Limitations of the ensemble-based or gradient-based methods when applied to truncated plurigaussian models of channel facies are shown.  It is possible to improve the data match and increase the ensemble spread by modifying the updating step.
+  authors:
+    DS Oliver, Y Chen
+  highlight: 1
+  link:
+    url: https://link.springer.com/article/10.1007/s11004-018-9753-y
+    display: Mathematical Geosciences 50(8), 867-893 (2018)
+  news2: 
+  
+- title: "Correlation-based adaptive localization with applications to ensemble-based 4D seismic history matching"
+  image: Luo_AdaLoc_SPEJ_2018.png
+  description: Application of correlation-based adaptive localization to history-matching production data in the Norne field. Also included is a comparison to the conventional distance-based localization.
+  authors: XD Luo, T Bhakta, G Nævdal
+  link:
+    url: https://www.onepetro.org/journal-paper/SPE-185936-PA
+    display:  SPE Journal, 23(02), 396–427 (2018)
+  highlight: 1
+  
+- title: "Efficient big data assimilation through sparse representation: A 3D benchmark case study in petroleum engineering"
+  image: Luo_BRUGGE_PLOS_2018.png
+  description: Application of an ensemble 4D seismic history matching framework with wavelet-based sparse representation to the 3D Brugge benchmark case.
+  authors: XD Luo, T Bhakta, M Jakobsen, G Nævdal
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198586
+    display:  PLOS ONE, 13(7), e0198586 (2018)
+  highlight: 1
+
+- title: "Coarse-scale data assimilation as a generic alternative to localization"
+  image: Fossum_upscale_2017.png
+  description:
+    A computationally efficient proxy model, generated by wavelet-based upscaling, is introduced. Reduction of numerical cost allows increased ensemble size, reducing need for localization.
+  authors:
+    K Fossum, T Mannseth
+  link:
+    url: https://doi.org/10.1007/s10596-016-9602-3
+    display: Computational Geosciences, 21(1), 167-186 (2017)
+  highlight: 1
+  news1: 
+
+- title: "Metropolized randomized maximum likelihood for improved sampling from multimodal distributions"
+  image: Oliver_samples_multimodal_posterior.png
+  description:
+    Describes a method for using optimization to derive efficient independent transition functions for  Markov chain Monte Carlo simulations with application to approximate sampling from a posterior density which is multimodal.
+  authors:
+    DS Oliver
+  link:
+    url: https://epubs.siam.org/doi/abs/10.1137/15M1033320?casa_token=YH67yPlO_PcAAAAA:B5YN52jSH_B2zQ2X1fEr8uR5aBh6O5noz5FSumt2fGX7c7p0kbIPRwhmsGqeAdnwaHzsjOUf0C4
+    display: SIAM/ASA Journal of Uncertainty Quantification, 5(1), 259--277 (2017)
+  highlight: 2
+  news1: 
+
+- title: "An ensemble 4D seismic history matching framework with sparse representation based on wavelet multiresolution analysis"
+  image: Luo_4D_SHM_framework_SPEJ_2017.png
+  description:
+    Development of an ensemble 4D seismic history matching framework with wavelet-based sparse representation to handle big data assimilation problems (e.g., 4D seismic history matching).
+  authors:
+    XD Luo, T Bhakta, M Jakobsen, G Nævdal
+  link:
+    url: https://www.onepetro.org/journal-paper/SPE-180025-PA
+    display: SPE Journal, 22(03), 985-1010 (2017)
+  highlight: 1
+  news1: 
+
+- title: "Localization and regularization for iterative ensemble smoothers"
+  image: Chen_ref-sw-t09.png
+  description:
+    Investigate issues of convergence rate and effect of localization range for various localization methods and the impact of truncation level for TSVD. All methods gave equivalent results when used in an iterative ensemble smoother, but the local analysis methods generally converged more quickly when the amount of data is large compared to ensemble size. 
+  authors:
+    Y Chen, DS Oliver
+  link:
+    url: https://link.springer.com/article/10.1007/s10596-016-9599-7
+    display: Computational Geosciences, 21(1), 13--30 (2017)
+  highlight: 1
+  news1: 
+
+- title: "Estimating observation error covariance matrix of seismic data from a perspective of image denoising"
+  image: Luo_wavelet_decomposition_CG_2017.png
+  description:
+    Estimate noise in seismic data from a perspective of image denoising (as a preliminary step before seismic history matching). Also included is a performance comparison of a few image denoising methods applied to seismic data from the Norne field. 
+  authors:
+    XD Luo, T Bhakta
+  link:
+    url: https://link.springer.com/article/10.1007%2Fs10596-016-9605-0
+    display: Computational Geosciences, 21(2), 205--222 (2017)
+  highlight: 1
+  news1: 
