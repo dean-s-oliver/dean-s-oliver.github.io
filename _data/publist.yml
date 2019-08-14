@@ -58,6 +58,15 @@
     display:  Comput Geosci. 22(1), 867-893 (2018)
   highlight: 1
 
+- title: "Assimilating spatially dense data for subsurface applications--balancing information and degrees of freedom"
+  image: Mannseth_perm_field_2018.png
+  description: Three methods for data-feature extraction from inverted seismic data is compared to a reference solution. A novel method combining data coarsening and coarse-scale simulations consistently outperformed the other methods.
+  authors: T Mannseth, K Fossum
+  link:
+    url: https://link.springer.com/article/10.1007/s10596-018-9755-3
+    display:  Comput Geosci, 22(5), 1323-1349 (2018)
+  highlight: 1
+
 - title: "Data assimilation in truncated plurigaussian models -- impact of the truncation map"
   image: Oliver_tidal_flats.png
   description:
