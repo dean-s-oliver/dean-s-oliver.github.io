@@ -60,7 +60,7 @@ develop  methods for assessing the quality of calibrated reservoir models and fo
 Finally, we will develop recommendations for a standardized  work flow for 4D seismic history matching that results in  reduced model error and better forecast ability.
 
 
-We are grateful for funding from the Research Council of Norway, [RCN](https://www.forskningsradet.no/en/) through the [PETROMAKS2 program](https://www.forskningsradet.no/om-forskningsradet/programmer/petromaks2/), and from industry partners: AkerBP, Equinor, Repsol, and Total.
+We are grateful for funding from the Research Council of Norway, [RCN](https://www.forskningsradet.no/en/) through the [PETROMAKS2 program](https://www.forskningsradet.no/om-forskningsradet/programmer/petromaks2/), and from industry partners: Aker BP, Equinor, Lundin, Repsol, and Total.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NORCE.png" style="width: 150px">

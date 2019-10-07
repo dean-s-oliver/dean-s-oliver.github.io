@@ -1,3 +1,13 @@
+- title: "Evaluating prior predictions of production and seismic data"
+  image: Alfonzo_4D_Noise.png
+  description: Proposes a methodology for determining the suitability of a computer model before calibration, targeted at real data assimilation problems with large numbers of model parameters, large amounts of data and correlated observation errors. The model diagnostic is based on an approximation of the Mahalanobis distance suitable for use in high-dimensional spaces.
+  authors: M Alfonzo, DS Oliver 
+  link:
+    url: https://link.springer.com/article/10.1007/s10596-019-09849-0
+    display:  Comput Geosci., online  September 2019
+  highlight: 1
+  news1: 
+
 - title: "Seismic data assimilation with an imperfect model"
   image: Alfonzo_Norne_Experimental_Covariance.png
   description: A demonstration of data assimilation with correlated observation errors and iterative estimation of total observation error in an imperfect model with large amounts of data. Applied to the Norne Field.
@@ -56,15 +66,6 @@
   link:
     url: https://link.springer.com/article/10.1007/s10596-017-9678-4
     display:  Comput Geosci. 22(1), 867-893 (2018)
-  highlight: 1
-
-- title: "Assimilating spatially dense data for subsurface applications--balancing information and degrees of freedom"
-  image: Mannseth_perm_field_2018.png
-  description: Three methods for data-feature extraction from inverted seismic data is compared to a reference solution. A novel method combining data coarsening and coarse-scale simulations consistently outperformed the other methods.
-  authors: T Mannseth, K Fossum
-  link:
-    url: https://link.springer.com/article/10.1007/s10596-018-9755-3
-    display:  Comput Geosci, 22(5), 1323-1349 (2018)
   highlight: 1
 
 - title: "Data assimilation in truncated plurigaussian models -- impact of the truncation map"

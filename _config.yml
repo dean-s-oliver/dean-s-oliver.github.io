@@ -14,8 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
   A website for the project Assimilating 4D Seismic Data: Big Data Into Big Models.
 baseurl: ""
 url: ""
-production_url : https://dean-s-oliver.github.io/4DSEIS
-BASE_PATH : https://dean-s-oliver.github.io/4DSEIS
+production_url : https://dean-s-oliver.github.io/dean-s-oliver.github.io
+BASE_PATH : https://dean-s-oliver.github.io/dean-s-oliver.github.io
 
 include:
   - .htaccess
