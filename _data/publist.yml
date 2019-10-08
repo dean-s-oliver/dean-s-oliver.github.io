@@ -3,8 +3,8 @@
   description: Proposes a methodology for determining the suitability of a computer model before calibration, targeted at real data assimilation problems with large numbers of model parameters, large amounts of data and correlated observation errors. The model diagnostic is based on an approximation of the Mahalanobis distance suitable for use in high-dimensional spaces.
   authors: M Alfonzo, DS Oliver 
   link:
-    url: https://link.springer.com/article/10.1007/s10596-019-09849-0
-    display:  Comput Geosci., online  September 2019
+    url: https://link.springer.com/article/10.1007/s10596-019-09889-6
+    display:  Comput Geosci., online  October 2019
   highlight: 1
   news1: 
 

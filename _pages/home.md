@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-This project aims to improve the reliability of subsurface reservoir models for prediction  by assimilating the maximum amount of information from the 4D seismic data and accurately estimating the resulting uncertainty. The research is performed by members of the Inverse Modelling and Optimization group at [NORCE Research](https://www.norceresearch.no/en/) in collaboration with colleagues at the Edinburgh Time-Lapse Project [(ETLP)](https://etlp.hw.ac.uk/) and at the [University of Bergen](https://www.uib.no/en).
+This project aims to improve the reliability of subsurface reservoir models for prediction  by assimilating the maximum amount of information from the 4D seismic data and accurately estimating the resulting uncertainty. The research is performed by members of the Data Assimilation and Optimization group at [NORCE Research](https://www.norceresearch.no/en/) in collaboration with colleagues at the Edinburgh Time-Lapse Project [(ETLP)](https://etlp.hw.ac.uk/) and at the [University of Bergen](https://www.uib.no/en).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
