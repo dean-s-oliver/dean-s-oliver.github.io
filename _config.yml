@@ -11,7 +11,7 @@ email: dsoliver@gmail.com
 github: dean-s-oliver
 name: Dean Oliver
 description: > # this means to ignore newlines until "baseurl:"
-  A website for the project Assimilating 4D Seismic Data: Big Data Into Big Models.
+  A website for the project Assimilating 4D Seismic Data: Big Data Into Big Models. Developing methods for robust forecasting from reservoir simulation models after assimilation of time-lapse seismic data and production data.
 baseurl: ""
 url: ""
 production_url : https://dean-s-oliver.github.io/dean-s-oliver.github.io
@@ -44,4 +44,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+
 

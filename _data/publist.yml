@@ -26,7 +26,7 @@
     SI Aanonsen, S Tveit, M Alerini
   link:
     url: https://www.onepetro.org/journal-paper/SPE-194505-PA
-    display: SPE Journal, online March 2019
+    display: SPE Journal, 24(4), August 2019
   highlight: 1
 
 - title: "History matching the full Norne Field model using seismic and production data"
@@ -37,7 +37,7 @@
     RJ Lorentzen, XD Luo, T Bhakta, R Valestrand
   link:
     url: https://www.onepetro.org/journal-paper/SPE-194205-PA
-    display: SPE Journal, online January 2019
+    display: SPE Journal, 24(4), August 2019
   highlight: 1
   
 - title: "Correlation-based adaptive localization for ensemble-based history matching: applied to the Norne Field case study"
@@ -46,7 +46,7 @@
   authors: XD Luo, RJ Lorentzen, R Valestrand, G Evensen
   link:
     url: https://www.onepetro.org/journal-paper/SPE-191305-PA
-    display:  SPE Reservoir Evaluation & Engineering, in press 2019
+    display:  SPE Reservoir Evaluation & Engineering, 22(3), August 2019
   highlight: 1
   
 - title: "Ensemble-based kernel learning for a class of data assimilation problems with imperfect forward simulators"

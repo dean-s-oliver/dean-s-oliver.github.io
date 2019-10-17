@@ -28,11 +28,11 @@
   education2: 
 
 - name: Rolf J Lorentzen
-  photo: bio-photo.jpg
+  photo: Rolf_Lorentzen.jpg
   info: Senior Researcher
   email: rolo@norceresearch.no
-  number_educ: 0
-  education1: 
+  number_educ: 1
+  education1: Publications in <a href="https://orcid.org/0000-0001-8838-646X">ORCID</a>
 
 - name: Xiaodong Luo
   photo: Xiaodong Luo_web.jpg
@@ -65,7 +65,7 @@
   education4:
 
 - name: Sigurd I Aanonsen
-  photo: bio-photo.jpg
+  photo: Sigurd_Aanonsen.jpg
   info: Senior Researcher
   email: siaa@pnorceresearch.no
   number_educ: 0
