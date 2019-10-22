@@ -1,3 +1,13 @@
+- title: "Automatic and adaptive localization for ensemble-based history matching"
+  image: Luo_automatic_adaptive_loc.png
+  description: Propose a workflow that enables the implementation of an automatic and adaptive localization scheme for ensemble-based history matching. Improved performance is demonstrated in a 2D and a 3D seismic history matching problems.
+  authors: X Luo, T Bhakta 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0920410519309805
+    display:  Journal of Petroleum Science and Engineering, online  October 2019
+  highlight: 1
+  news1: 
+
 - title: "Evaluating prior predictions of production and seismic data"
   image: Alfonzo_4D_Noise.png
   description: Proposes a methodology for determining the suitability of a computer model before calibration, targeted at real data assimilation problems with large numbers of model parameters, large amounts of data and correlated observation errors. The model diagnostic is based on an approximation of the Mahalanobis distance suitable for use in high-dimensional spaces.

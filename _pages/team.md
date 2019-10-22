@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 
-Jump to [staff](#staff), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [alumni](#alumni), [administrative support](#administrative-support), [visitors](#visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -74,9 +74,9 @@ Jump to [staff](#staff), [alumni](#alumni), [administrative support](#administra
 {% endif %}
 
 
-## Lab visitors
+## Visitors
 {% assign number_printed = 0 %}
-{% for member in site.data.lab_visitors %}
+{% for member in site.data.visitors %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
