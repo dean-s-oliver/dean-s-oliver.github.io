@@ -1,10 +1,10 @@
 - name: Dean S Oliver
   photo: OLIVER_photo.jpg
-  info: Principal Researcher
+  info: Chief Scientist
   email: deol@norceresearch.no
   number_educ: 2
   education1: <a href="https://scholar.google.co.uk/citations?user=IxRAT7oAAAAJ&hl=en">Google Scholar</a>
-  education2: <a href="https://www.researcherid.com/rid/E-9429-2010">Researcher ID</a>
+  education2: <a href="https://www.researcherid.com/rid/AAC-9269-2019">Researcher ID</a>
   education3: 
   education4: 
   education5: 
@@ -46,7 +46,7 @@
 
 - name: Trond Mannseth
   photo: MannsethTrond.jpg
-  info: Principal Researcher
+  info: Chief Scientist
   email: trma@norceresearch.no
   number_educ: 1
   education1: <a href="https://folk.uib.no/fcitm/oversikt.htm">Home page</a>
