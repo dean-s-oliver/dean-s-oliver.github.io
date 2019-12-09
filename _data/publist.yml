@@ -90,6 +90,16 @@
     display: Mathematical Geosciences 50(8), 867-893 (2018)
   news2: 
   
+- title: "Assimilating spatially dense data for subsurface applications---balancing information and degrees of freedom"
+  image: Mannseth_perm_field.png
+  description: Three methods for data-feature extraction from inverted seismic data is compared to a reference solution. A novel method combining data coarsening and coarse-scale simulations consistently outperformed the other methods.
+  authors: T Mannseth, K Fossum 
+  link:
+    url: https://link.springer.com/article/10.1007/s10596-018-9755-3
+    display:  Comput Geosci, 22(5), 1323-1349, 2018
+  highlight: 1
+  news1: 
+  
 - title: "Correlation-based adaptive localization with applications to ensemble-based 4D seismic history matching"
   image: Luo_AdaLoc_SPEJ_2018.png
   description: Application of correlation-based adaptive localization to history-matching production data in the Norne field. Also included is a comparison to the conventional distance-based localization.
