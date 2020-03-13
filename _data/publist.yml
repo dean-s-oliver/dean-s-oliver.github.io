@@ -1,3 +1,14 @@
+- title: "Simultaneous assimilation of production and seismic data: application to the Norne field"
+  image: Lorentzen_simultaneous_2019.png
+  description:
+    Presents a workflow for assimilating seismic attributes and production data based on sparse representation of the seismic data, using methods developed for image denoising. 
+  authors:
+    RJ Lorentzen, T Bhakta, D Grana,  XD Luo, R Valestrand, G Nævdal
+  link:
+    url: https://link.springer.com/article/10.1007/s10596-019-09900-0
+    display: Computational Geosciences,  November 2019
+  highlight: 1
+
 - title: "Automatic and adaptive localization for ensemble-based history matching"
   image: Luo_automatic_adaptive_loc.png
   description: Propose a workflow that enables the implementation of an automatic and adaptive localization scheme for ensemble-based history matching. Improved performance is demonstrated in a 2D and a 3D seismic history matching problems.
