@@ -1,3 +1,14 @@
+- title: "Diagnosing reservoir model deficiency for model improvement"
+  image: Oliver_diagnosis_2020.png
+  description:
+    Checked for consistency of model with actual observations before data are assimilated. Comparison in low-dimension data spaces to identify source of model discrepancy. 
+  authors:
+    DS Oliver
+  link:
+    url: https://doi.org/10.1016/j.petrol.2020.107367
+    display: Journal of Petroleum Science and Engineering,  Volume 193, 107367 October 2020. 
+  highlight: 1
+
 - title: "Simultaneous assimilation of production and seismic data: application to the Norne field"
   image: Lorentzen_simultaneous_2019.png
   description:
@@ -6,7 +17,7 @@
     RJ Lorentzen, T Bhakta, D Grana,  XD Luo, R Valestrand, G Nævdal
   link:
     url: https://link.springer.com/article/10.1007/s10596-019-09900-0
-    display: Computational Geosciences,  November 2019
+    display: Computational Geosciences,  24(2), 907-920, 2020
   highlight: 1
 
 - title: "Automatic and adaptive localization for ensemble-based history matching"
@@ -15,17 +26,7 @@
   authors: X Luo, T Bhakta 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0920410519309805
-    display:  Journal of Petroleum Science and Engineering, online  October 2019
-  highlight: 1
-  news1: 
-
-- title: "Evaluating prior predictions of production and seismic data"
-  image: Alfonzo_4D_Noise.png
-  description: Proposes a methodology for determining the suitability of a computer model before calibration, targeted at real data assimilation problems with large numbers of model parameters, large amounts of data and correlated observation errors. The model diagnostic is based on an approximation of the Mahalanobis distance suitable for use in high-dimensional spaces.
-  authors: M Alfonzo, DS Oliver 
-  link:
-    url: https://link.springer.com/article/10.1007/s10596-019-09889-6
-    display:  Comput Geosci., online  October 2019
+    display:  Journal of Petroleum Science and Engineering, vol 184, art 106559, 2020
   highlight: 1
   news1: 
 
@@ -35,7 +36,17 @@
   authors: M Alfonzo, DS Oliver 
   link:
     url: https://link.springer.com/article/10.1007/s10596-019-09849-0
-    display:  Comput Geosci., online  July 2019
+    display:  Comput Geosci., 24(2), 889-905, 2020
+  highlight: 1
+  news1: 
+
+- title: "Evaluating prior predictions of production and seismic data"
+  image: Alfonzo_4D_Noise.png
+  description: Proposes a methodology for determining the suitability of a computer model before calibration, targeted at real data assimilation problems with large numbers of model parameters, large amounts of data and correlated observation errors. The model diagnostic is based on an approximation of the Mahalanobis distance suitable for use in high-dimensional spaces.
+  authors: M Alfonzo, DS Oliver 
+  link:
+    url: https://link.springer.com/article/10.1007/s10596-019-09889-6
+    display:  Comput Geosci., 23(6), 1331-1347, 2019
   highlight: 1
   news1: 
 
@@ -47,7 +58,7 @@
     SI Aanonsen, S Tveit, M Alerini
   link:
     url: https://www.onepetro.org/journal-paper/SPE-194505-PA
-    display: SPE Journal, 24(4), August 2019
+    display: SPE Journal, 24(4), 1490-1507, 2019
   highlight: 1
 
 - title: "History matching the full Norne Field model using seismic and production data"
@@ -58,7 +69,7 @@
     RJ Lorentzen, XD Luo, T Bhakta, R Valestrand
   link:
     url: https://www.onepetro.org/journal-paper/SPE-194205-PA
-    display: SPE Journal, 24(4), August 2019
+    display: SPE Journal, 24(4), 1452-1467, 2019
   highlight: 1
   
 - title: "Correlation-based adaptive localization for ensemble-based history matching: applied to the Norne Field case study"
@@ -67,7 +78,7 @@
   authors: XD Luo, RJ Lorentzen, R Valestrand, G Evensen
   link:
     url: https://www.onepetro.org/journal-paper/SPE-191305-PA
-    display:  SPE Reservoir Evaluation & Engineering, 22(3), August 2019
+    display:  SPE Reservoir Evaluation & Engineering, 22(3), 1084-1109, 2019
   highlight: 1
   
 - title: "Ensemble-based kernel learning for a class of data assimilation problems with imperfect forward simulators"
