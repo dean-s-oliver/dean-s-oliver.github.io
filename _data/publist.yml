@@ -9,6 +9,14 @@
     display: Journal of Petroleum Science and Engineering,  Volume 193, 107367 October 2020. 
   highlight: 1
 
+- title: "Assessment of multilevel ensemble-based data assimilation for reservoir history matching"
+  authors:
+    K Fossum, T Mannseth, AS Stordal
+  link:
+    url: https://doi.org/10.1007/s10596-019-09911-x
+    display: Computational Geosciences,  24(1), 217-239, 2020
+  highlight: 2
+
 - title: "Simultaneous assimilation of production and seismic data: application to the Norne field"
   image: Lorentzen_simultaneous_2019.png
   description:
